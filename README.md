@@ -1,7 +1,7 @@
 # Serif_Health_DS_takehome
 List of files with descriptions:
 * Serif_Health_DS_Takehome_Nimra_Asi.ipynb: Jupyter notebook containing Python code used for data analysis. Code is commented and provides additional thought process behind particular decisions made.
-* matched_data.csv: this is a csv file containing columns used for matching as well as rates for data where a match was found between the hospital and payer extracts
+* matched_data.csv: this is a csv file containing selected columns as well as rates for data where a match was found between the hospital and payer extracts
 * hospital_extract_unmatched_rows.csv: csv file containing the hospital_extract data that was not matched to any data in the payer_extract
 * payer_extract_unmatched_rows.csv: csv file containing the payer_extract data that was not matched to any data in the hospital extract
 
